@@ -16,6 +16,9 @@ public class JavaDemo {
 		
 		System.out.println(carname+" is my car");
 		
+		System.out.println(carname+" is my car");
+			
+		
 
 	}
 
