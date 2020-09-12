@@ -20,7 +20,7 @@ public class Day1 {
 			
 		System.out.println(carname+" is my car");
 
-		
+		System.out.println(carname+" is my car");
 	}
 
 }
